@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaeljau9
+- 👋 Hi, I’m @michaeljau
 - 👀 I’m interested in Javascript, HTML, CSS, and python
 - 🌱 I’m currently learning Javascript and CSS
 - 💞️ I’m looking to collaborate on Javascript
